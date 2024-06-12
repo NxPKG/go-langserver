@@ -24,14 +24,14 @@ require (
 	github.com/pelletier/go-toml v1.6.0
 	github.com/pkg/errors v0.9.1
 	github.com/pmezard/go-difflib v1.0.0
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/slimsag/godocmd v0.0.0-20161025000126-a1005ad29fe3
 	github.com/uber/jaeger-client-go v2.29.1+incompatible
 	github.com/uber/jaeger-lib v2.4.1+incompatible
 	go.uber.org/atomic v1.9.0 // indirect
 	go4.org v0.0.0-20200312051459-7028f7b4a332
-	golang.org/x/net v0.0.0-20200625001655-4c5254603344
+	golang.org/x/net v0.23.0
 	golang.org/x/term v0.21.0 // indirect
-	golang.org/x/tools v0.0.0-20200401192744-099440627f01
+	golang.org/x/tools v0.6.0
 	gopkg.in/yaml.v2 v2.3.0
 )
